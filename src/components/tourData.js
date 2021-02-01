@@ -64,7 +64,7 @@ export const tourData = [
     },{
         id: 13,
         town: "seven eagles spur",
-        img: 'http://www.travelstart.com.ng/blog/wp-content/uploads/2014/06/Seven-Eagles-Spur.jpg',
+        img: 'https://nightlife.ng/wp-content/uploads/2018/06/1029082_VJYJT4OxDErtGyjqxKFAvT7t0_zKwYRDQMB4-QQwUps.jpg',
         info: 'Seven Eagles Spur serves variety of meals that you’ll love to have on your favourite plate at home. There’s apparently a Naija tint to every dish served, even though they serve Mexican foods. Jollof rice here is like it’s made in heaven, served with fresh salad – fresh vegetables and flavoured ingredients.'
     },{
         id: 14,
