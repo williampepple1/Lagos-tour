@@ -64,7 +64,7 @@ export const tourData = [
     },{
         id: 13,
         town: "seven eagles spur",
-        img: 'https://nightlife.ng/wp-content/uploads/2018/06/1029082_VJYJT4OxDErtGyjqxKFAvT7t0_zKwYRDQMB4-QQwUps.jpg',
+        img: 'https://nightlife.ng/wp-content/uploads/2018/06/spur.png',
         info: 'Seven Eagles Spur serves variety of meals that you’ll love to have on your favourite plate at home. There’s apparently a Naija tint to every dish served, even though they serve Mexican foods. Jollof rice here is like it’s made in heaven, served with fresh salad – fresh vegetables and flavoured ingredients.'
     },{
         id: 14,
@@ -74,7 +74,7 @@ export const tourData = [
     },{
         id: 15,
         town: "pool terrace",
-        img: 'http://www.travelstart.com.ng/blog/wp-content/uploads/2014/06/PoolBarjpg861x588.jpg',
+        img: 'https://media-cdn.tripadvisor.com/media/photo-s/0a/e6/59/f4/clean-fresh-pool-area.jpg',
         info: 'ool Terrace Bar offers a mix of fun, music and food. The restaurant is beautiful and tasty enough to make anyone hungry. It is known for excellent food and lively environment. You can enjoy great food –  Nigerian delicacies, barbecues and grilled food as well as live music. '
     },{
         id: 16,
