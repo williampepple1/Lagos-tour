@@ -74,7 +74,7 @@ export const tourData = [
     },{
         id: 15,
         town: "pool terrace",
-        img: 'https://media-cdn.tripadvisor.com/media/photo-s/0a/e6/59/f4/clean-fresh-pool-area.jpg',
+        img: 'https://media.timbu.com/poi/331/ptb.jpg-331-5706479cba46d.jpg',
         info: 'ool Terrace Bar offers a mix of fun, music and food. The restaurant is beautiful and tasty enough to make anyone hungry. It is known for excellent food and lively environment. You can enjoy great food –  Nigerian delicacies, barbecues and grilled food as well as live music. '
     },{
         id: 16,
